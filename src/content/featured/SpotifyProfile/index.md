@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Bellepar Homes'
+cover: './Bellepar.png'
+# github: 'https://github.com/bchiang7/spotify-profile'
+external: 'https://belleparhomes.com/home-future/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Javascript
+  - Wordpress
+  - HTML
+  - CSS
 show: 'true'
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Bellepar is a home construction company that needed a first time website to build rapport with potential clients. The design and colors were carefully chosen to highlight the classic style and beautiful designed homes that the company makes.
