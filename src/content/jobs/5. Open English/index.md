@@ -1,5 +1,5 @@
 ---
-date: '2015-12-21'
+date: '2016-06-01'
 title: 'Academic Specialist'
 company: 'Open English'
 location: 'Miami, FL(remote)'

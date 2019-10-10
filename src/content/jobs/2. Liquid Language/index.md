@@ -1,5 +1,5 @@
 ---
-date: '2016-12-21'
+date: '2015-12-01'
 title: 'Website Developer & Founder'
 company: 'Liquid Language LLC'
 location: 'Twin Cities, MN'

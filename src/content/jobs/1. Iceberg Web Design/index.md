@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2018-11-01'
 title: 'Website Developer'
 company: 'Iceberg Web Design'
 location: 'Anoka, MN'
