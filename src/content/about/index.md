@@ -5,15 +5,21 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - React
-  - Vue
+  - Redux
   - Node.js
+  - WordPress
   - Express
-  - GraphQL
-  - NativeScript
+  - SQL
+  - MySQL
+  - PostgreSQL
+  - Express
+  - Python
+  - HTTP
+  - Ajax
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Kyle, a software engineer based in the Twin Cities, MN who enjoys building solutions that make a positive impact. I develop modern websites and web apps that provide users with a clean and visually intuitive experience.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after starting my own EdTech company [Liquid Language](https://liquidlang.com/), I discovered my love for Softwre Engineering and had the privilege of studying in one of the world's top Full Stack Engineering Schools [Lambda School](https://lambdaschool.com). Currently, I am working at [Iceberg Web Design](https://www.icebergwebdesign.com/) where I work on a wide variety of interesting and meaningful projects that impact local businesses on a daily basis.
 
 Here's a few technologies I've been working with recently:

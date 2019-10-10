@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Kyle Teeter'
+subtitle: 'I build everyday solutions.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a software engineer based in the Twin Cities, MN who is passionate about leveraging my experience to build culturally inclusive software and applications for the real world.
