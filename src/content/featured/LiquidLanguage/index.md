@@ -14,4 +14,4 @@ tech:
 show: 'true'
 ---
 
-Liquid Language is an online school that teaches English as a Second language. The LMS was created give students a near emersion like experience online. Students can enjoy interactive lesson content and live video lessons with teachers through complete learning system.
+Liquid Language is an online school that teaches English as a Second language. The LMS was created give students a near immersion like experience online. Students can enjoy interactive lesson content and live video lessons with teachers through complete learning system.

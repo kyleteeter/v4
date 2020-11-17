@@ -17,4 +17,4 @@ tech:
 show: 'true'
 ---
 
-Tenantly is a property management application that makes the communication and financial transactions easier between the tenant and landlord. With two distict dashboards both tenants and clients have all of the tools needed to efficiently resolve work orders and track payments.
+Tenantly is a property management application that makes the communication and financial transactions easier between the tenant and landlord. With two distinct dashboards both tenants and clients have all of the tools needed to efficiently resolve work orders and track payments.
